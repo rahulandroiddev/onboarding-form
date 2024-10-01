@@ -10,7 +10,7 @@ import ShareIcon from '@mui/icons-material/Share';
 import StarIcon from '@mui/icons-material/Star';
 
 const videoFeeds = [
-  { id: 1, title: 'Anjali Sharma', description: 'Beautiful Banarasi Sarees', src: 'https://www.youtube.com/embed/Z_YqmzwyXZE', avatar: 'https://randomuser.me/api/portraits/women/1.jpg', shopName: 'Anjali Saree Center', address: '123 Varanasi Street, Varanasi', timing: '10:00 - 15:00 IST', priceRange: '₹1000 - ₹5000' },
+  { id: 1, title: 'Anjali Sharma New', description: 'Beautiful Banarasi Sarees', src: 'https://www.youtube.com/embed/Z_YqmzwyXZE', avatar: 'https://randomuser.me/api/portraits/women/1.jpg', shopName: 'Anjali Saree Center', address: '123 Varanasi Street, Varanasi', timing: '10:00 - 15:00 IST', priceRange: '₹1000 - ₹5000' },
   { id: 2, title: 'Ravi Kumar', description: 'Exclusive Silk Sarees', src: 'https://www.youtube.com/embed/Z_YqmzwyXZE', avatar: 'https://randomuser.me/api/portraits/men/2.jpg', shopName: 'Ravi Silk House', address: '456 Varanasi Lane, Varanasi', timing: '11:00 - 16:00 IST', priceRange: '₹6000 - ₹12000' },
   { id: 3, title: 'Priya Singh', description: 'Designer Sarees Collection', src: 'https://www.youtube.com/embed/Z_YqmzwyXZE', avatar: 'https://randomuser.me/api/portraits/women/3.jpg', shopName: 'Priya Saree Emporium', address: '789 Varanasi Road, Varanasi', timing: '12:00 - 17:00 IST', priceRange: '₹1000 - ₹5000' },
   { id: 4, title: 'Amit Patel', description: 'Traditional Banarasi Sarees', src: 'https://www.youtube.com/embed/Z_YqmzwyXZE', avatar: 'https://randomuser.me/api/portraits/men/4.jpg', shopName: 'Amit Saree Palace', address: '101 Varanasi Avenue, Varanasi', timing: '13:00 - 18:00 IST', priceRange: '₹6000 - ₹12000' },
